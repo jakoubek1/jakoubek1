@@ -1,4 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">ahoj Jakub Musil</h1>
+<h3 align="center">CZ</h3>
+
+- 📫 How to reach me **jmusil.2006@gmail.com**
+
+- ⚡ Fun fact **Hudba**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
